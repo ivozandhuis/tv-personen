@@ -1,148 +1,416 @@
-"voorletters","tussenvoegsel","achternaam",achtervoegsel,"rol","vereniging"
-"J.P.",,"Nobels",,"President","haarlem"
-"C.",,"Boss",,"Vice-President","haarlem"
-"P.",,"Veen",,"Penningmeester","haarlem"
-"M.",,"Uitenbosch",,"Secretaris","haarlem"
-"N.","van","Amesfoort",,"Ceremoniemeester","haarlem"
-"C.",,"Bies",,"Agent","haarlem"
-"J.W.",,"Mulder",,"Agent","haarlem"
-"H.N.","van","Amesfoort",,"Agent","haarlem"
-"D.",,"Andrea",,"Commissaris van toezigt","haarlem"
-"P.",,"Lennings",,"Commissaris van toezigt","haarlem"
-"H.","de","Wilde",,"banierdrager","haarlem"
-"F.","van","Aalst",,,"haarlem"
-"D.",,"Andrea",,,"haarlem"
-"B.",,"Arps",,,"haarlem"
-"P.",,"Baars",,,"haarlem"
-"A.",,"Boeree",,,"haarlem"
-"H.",,"Boeree",,,"haarlem"
-"J.F.C.",,"Bolenius",,,"haarlem"
-"J.W.","van den","Boogaard",,,"haarlem"
-"H.C.",,"Boon",,,"haarlem"
-"M.",,"Boss",,,"haarlem"
-"J.",,"Brouwer",,,"haarlem"
-"J.B.",,"Brauckmann",,,"haarlem"
-"C.",,"Bruigom",,,"haarlem"
-"J.","van","Brussel",,,"haarlem"
-"J.",,"Coule",,,"haarlem"
-"J.","van","Dalen",,,"haarlem"
-"J.J.",,"Derr",,,"haarlem"
-"W.",,"Dröse",,,"haarlem"
-"A.","la","Duc",,,"haarlem"
-"J.",,"Duijff",,,"haarlem"
-"J.","van","Duijn",,,"haarlem"
-"J.",,"Dweelaart",,,"haarlem"
-"E.","de","Haan",,,"haarlem"
-"J.",,"Haeseker",,,"haarlem"
-"J.F.",,"Haeseker",,,"haarlem"
-"H.",,"Hazenkamp",,,"haarlem"
-"J.",,"Hennevelt",,,"haarlem"
-"J.",,"Hirs",,,"haarlem"
-"J.W.",,"Hos",,,"haarlem"
-"D.P.",,"Immer",,,"haarlem"
-"P.",,"Jansen",,,"haarlem"
-"J.",,"Joore",,,"haarlem"
-"W.J.",,"Kat",,,"haarlem"
-"A.",,"Kerkhoff",,,"haarlem"
-"D.",,"Klenk",,,"haarlem"
-"J.",,"Kroonsberg",,,"haarlem"
-"A.",,"Kruiter",,,"haarlem"
-"J.R.V.",,"Kruseman",,,"haarlem"
-"A.J.","van","Leeuwen",,,"haarlem"
-"J.",,"Madern",,,"haarlem"
-"E.H.",,"Meeuweszen",,,"haarlem"
-"J.",,"Meijer",,,"haarlem"
-"H.",,"Middendorp",,,"haarlem"
-"K.F.",,"Misset",,,"haarlem"
-"D.C.",,"Moorhoff",,,"haarlem"
-"W.F.",,"Negrijn",,,"haarlem"
-"G.",,"Oostenbroek",,,"haarlem"
-"A.",,"Pols",,,"haarlem"
-"N.","van","Putten",,,"haarlem"
-"E.",,"Serné",,,"haarlem"
-"W.",,"Serné",jr.,,"haarlem"
-"J.",,"Smit",,,"haarlem"
-"W.E.",,"Smit",,,"haarlem"
-"C.","van","Stocking",,,"haarlem"
-"A.",,"Swenneker",,,"haarlem"
-"J.C.",,"Swenneker",,,"haarlem"
-,,"Uilenburg",,,"haarlem"
-"D.","van","Veen",,,"haarlem"
-"W.","van","Veen",,,"haarlem"
-"G.",,"Veldheer",,,"haarlem"
-,"van der","Vlerk",,,"haarlem"
-"P.",,"Walter",,,"haarlem"
-"G.","van de","Weetering",,,"haarlem"
-"G.","van de","Weetering",jr.,,"haarlem"
-"A.",,"Wensing",,,"haarlem"
-"J.H.",,"Zuurendonk",,,"haarlem"
-"J.F.",,"Badoux",,"President","den haag"
-"J.",,"Grootens",,"Vice-President","den haag"
-"C.G.","van","Honstede",,"ceremoniemeester","den haag"
-"W.J.","de","Gruijter",,"Eerste Secretaris","den haag"
-"J.H.",,"Regenboog",,"Tweede Secretaris","den haag"
-"M.","van","Bergen",,,"den haag"
-"J.J.",,"Boshart",,,"den haag"
-"A.",,"Cheizoo",,,"den haag"
-"J.H.",,"Dornbach",,,"den haag"
-"J.J.","van der ","Eijk",,,"den haag"
-"A.",,"Gaal",,,"den haag"
-"M.J.",,"Gillissen",,,"den haag"
-"D.","de","Groot",,,"den haag"
-"N.","de","Groot",,,"den haag"
-"W.",,"Hartogh",,,"den haag"
-"H.B.",,"Heller",,,"den haag"
-"F.",,"Hommes",,,"den haag"
-"A.",,"Hoogeveen",,,"den haag"
-"P.","in 't","Hout",,,"den haag"
-"C.J.","van","Houten",,,"den haag"
-"J.J.",,"Hubel",,,"den haag"
-"R.",,"Hulsker",,,"den haag"
-"N.A.","van","Hulst",,,"den haag"
-"W.",,"Jalink",,,"den haag"
-"J.",,"Jansen",,,"den haag"
-"J.",,"Keyzer",,,"den haag"
-"H.",,"Kiefmeijer",,,"den haag"
-"W.",,"Kok",,,"den haag"
-"H.F.",,"Kokx",,,"den haag"
-"J.","de","Koning",,,"den haag"
-"L.",,"Krul",,,"den haag"
-"J.",,"Kruuk",,,"den haag"
-"H.",,"Kuisch",,,"den haag"
-"B.",,"Kuit",,,"den haag"
-"N.A.","de","Lange",,,"den haag"
-"H.","van","Loon",,,"den haag"
-"W.H.","van","Loon",,,"den haag"
-"E.A.",,"Meijer",,,"den haag"
-"H.A.","van","Oije",,,"den haag"
-"J.B.",,"Orleans",,,"den haag"
-"M.J.",,"Orlians",,,"den haag"
-"G.",,"Palm",,,"den haag"
-"W.",,"Palm",,,"den haag"
-"J.C.",,"Ratering",,,"den haag"
-"H.",,"Remmerswaal",,,"den haag"
-"N.",,"Ruivekamp",,,"den haag"
-"G.",,"Scheffelaar",,,"den haag"
-"J.",,"Schouten",,,"den haag"
-"J.","van der","Spek",,,"den haag"
-"J.H.",,"Stam",,,"den haag"
-"M.",,"Verkerk",,,"den haag"
-"H.",,"Versteegh",,,"den haag"
-"J.",,"Visser",,,"den haag"
-"A.","van","Wijck",,,"den haag"
-"J.",,"Crucq",,"President","middelburg"
-"H.",,"Delzenne",,"Secretaris","middelburg"
-"F.P.",,"Dhuy",,"Ceremoniemeester","middelburg"
-"C.J.",,"Bruker",,"Commissaris van orde","middelburg"
-"K.A.",,"Sanderse",,"Vaandeldrager","middelburg"
-"A.H.",,"Bitter",,,"middelburg"
-"P.F.F.",,"Dentz",,,"middelburg"
-"F.J.","van","Heulen",,,"middelburg"
-"J.J.",,"Janssen",,,"middelburg"
-"M.J.","van","Otterloo",,,"middelburg"
-"J.",,"Rommael",,,"middelburg"
-"F.J.",,"Scheffer",,,"middelburg"
-"C.",,"Regenboog",,"President",
-"J.M.",,"Hessel",,"Penningmeester",
-"A.",,"Hogenhuis",,"Eerste Secretaris",
-"J.",,"Stom",,"Tweede Secretaris",
+volgnr,pagina,voorletters,tussenvoegsel,achternaam,achtervoegsel,rol,vereniging
+1,218,J.P.,,Nobels,,President,haarlem
+2,218,C.,,Boss,,Vice-President,haarlem
+3,218,P.,,Veen,,Penningmeester,haarlem
+4,218,M.,,Uitenbosch,,Secretaris,haarlem
+5,218,N.,van,Amesfoort,,Ceremoniemeester,haarlem
+6,218,C.,,Bies,,Agent,haarlem
+7,218,J.W.,,Mulder,,Agent,haarlem
+8,218,H.N.,van,Amesfoort,,Agent,haarlem
+9,218,D.,,Andrea,,Commissaris van toezigt,haarlem
+10,218,P.,,Lennings,,Commissaris van toezigt,haarlem
+11,218,H.,de,Wilde,,banierdrager,haarlem
+12,218,F.,van,Aalst,,,haarlem
+13,218,D.,,Andrea,,,haarlem
+14,218,B.,,Arps,,,haarlem
+15,218,P.,,Baars,,,haarlem
+16,218,A.,,Boeree,,,haarlem
+17,218,H.,,Boeree,,,haarlem
+18,218,J.F.C.,,Bolenius,,,haarlem
+19,218,J.W.,van den,Boogaard,,,haarlem
+20,218,H.C.,,Boon,,,haarlem
+21,218,M.,,Boss,,,haarlem
+22,218,J.,,Brouwer,,,haarlem
+23,218,J.B.,,Brauckmann,,,haarlem
+24,218,C.,,Bruigom,,,haarlem
+25,218,J.,van,Brussel,,,haarlem
+26,218,J.,,Coule,,,haarlem
+27,218,J.,van,Dalen,,,haarlem
+28,218,J.J.,,Derr,,,haarlem
+29,218,W.,,Dröse,,,haarlem
+30,218,A.,la,Duc,,,haarlem
+31,218,J.,,Duijff,,,haarlem
+32,218,J.,van,Duijn,,,haarlem
+33,218,J.,,Dweelaart,,,haarlem
+34,218,E.,de,Haan,,,haarlem
+35,218,J.,,Haeseker,,,haarlem
+36,218,J.F.,,Haeseker,,,haarlem
+37,218,H.,,Hazenkamp,,,haarlem
+38,218,J.,,Hennevelt,,,haarlem
+39,218,J.,,Hirs,,,haarlem
+40,218,J.W.,,Hos,,,haarlem
+41,218,D.P.,,Immer,,,haarlem
+42,218,P.,,Jansen,,,haarlem
+43,218,J.,,Joore,,,haarlem
+44,218,W.J.,,Kat,,,haarlem
+45,218,A.,,Kerkhoff,,,haarlem
+46,218,D.,,Klenk,,,haarlem
+47,218,J.,,Kroonsberg,,,haarlem
+48,218,A.,,Kruiter,,,haarlem
+49,218,J.R.V.,,Kruseman,,,haarlem
+50,218,A.J.,van,Leeuwen,,,haarlem
+51,218,J.,,Madern,,,haarlem
+52,218,E.H.,,Meeuweszen,,,haarlem
+53,218,J.,,Meijer,,,haarlem
+54,218,H.,,Middendorp,,,haarlem
+55,218,K.F.,,Misset,,,haarlem
+56,218,D.C.,,Moorhoff,,,haarlem
+57,218,W.F.,,Negrijn,,,haarlem
+58,218,G.,,Oostenbroek,,,haarlem
+59,218,A.,,Pols,,,haarlem
+60,218,N.,van,Putten,,,haarlem
+61,218,E.,,Serné,,,haarlem
+62,218,W.,,Serné,jr.,,haarlem
+63,218,J.,,Smit,,,haarlem
+64,218,W.E.,,Smit,,,haarlem
+65,218,C.,van,Stocking,,,haarlem
+66,218,A.,,Swenneker,,,haarlem
+67,218,J.C.,,Swenneker,,,haarlem
+68,218,,,Uilenburg,,,haarlem
+69,218,D.,van,Veen,,,haarlem
+70,218,W.,van,Veen,,,haarlem
+71,218,G.,,Veldheer,,,haarlem
+72,218,,van der,Vlerk,,,haarlem
+73,218,P.,,Walter,,,haarlem
+74,218,G.,van de,Weetering,,,haarlem
+75,218,G.,van de,Weetering,jr.,,haarlem
+76,218,A.,,Wensing,,,haarlem
+77,218,J.H.,,Zuurendonk,,,haarlem
+78,218,J.F.,,Badoux,,President,den haag
+79,218,J.,,Grootens,,Vice-President,den haag
+80,218,C.G.,van,Honstede,,ceremoniemeester,den haag
+81,218,W.J.,de,Gruijter,,Eerste Secretaris,den haag
+82,218,J.H.,,Regenboog,,Tweede Secretaris,den haag
+83,219,M.,van,Bergen,,,den haag
+84,219,J.J.,,Boshart,,,den haag
+85,219,A.,,Cheizoo,,,den haag
+86,219,J.H.,,Dornbach,,,den haag
+87,219,J.J.,van der ,Eijk,,,den haag
+88,219,A.,,Gaal,,,den haag
+89,219,M.J.,,Gillissen,,,den haag
+90,219,D.,de,Groot,,,den haag
+91,219,N.,de,Groot,,,den haag
+92,219,W.,,Hartogh,,,den haag
+93,219,H.B.,,Heller,,,den haag
+94,219,F.,,Hommes,,,den haag
+95,219,A.,,Hoogeveen,,,den haag
+96,219,P.,in 't,Hout,,,den haag
+97,219,C.J.,van,Houten,,,den haag
+98,219,J.J.,,Hubel,,,den haag
+99,219,R.,,Hulsker,,,den haag
+100,219,N.A.,van,Hulst,,,den haag
+101,219,W.,,Jalink,,,den haag
+102,219,J.,,Jansen,,,den haag
+103,219,J.,,Keyzer,,,den haag
+104,219,H.,,Kiefmeijer,,,den haag
+105,219,W.,,Kok,,,den haag
+106,219,H.F.,,Kokx,,,den haag
+107,219,J.,de,Koning,,,den haag
+108,219,L.,,Krul,,,den haag
+109,219,J.,,Kruuk,,,den haag
+110,219,H.,,Kuisch,,,den haag
+111,219,B.,,Kuit,,,den haag
+112,219,N.A.,de,Lange,,,den haag
+113,219,H.,van,Loon,,,den haag
+114,219,W.H.,van,Loon,,,den haag
+115,219,E.A.,,Meijer,,,den haag
+116,219,H.A.,van,Oije,,,den haag
+117,219,J.B.,,Orleans,,,den haag
+118,219,M.J.,,Orlians,,,den haag
+119,219,G.,,Palm,,,den haag
+120,219,W.,,Palm,,,den haag
+121,219,J.C.,,Ratering,,,den haag
+122,219,H.,,Remmerswaal,,,den haag
+123,219,N.,,Ruivekamp,,,den haag
+124,219,G.,,Scheffelaar,,,den haag
+125,219,J.,,Schouten,,,den haag
+126,219,J.,van der,Spek,,,den haag
+127,219,J.H.,,Stam,,,den haag
+128,219,M.,,Verkerk,,,den haag
+129,219,H.,,Versteegh,,,den haag
+130,219,J.,,Visser,,,den haag
+131,219,A.,van,Wijck,,,den haag
+132,219,J.,,Crucq,,President,middelburg
+133,219,H.,,Delzenne,,Secretaris,middelburg
+134,219,F.P.,,Dhuy,,Ceremoniemeester,middelburg
+135,219,C.J.,,Bruker,,Commissaris van orde,middelburg
+136,219,K.A.,,Sanderse,,Vaandeldrager,middelburg
+137,219,A.H.,,Bitter,,,middelburg
+138,219,P.F.F.,,Dentz,,,middelburg
+139,219,F.J.,van,Heulen,,,middelburg
+140,219,J.J.,,Janssen,,,middelburg
+141,219,M.J.,van,Otterloo,,,middelburg
+142,219,J.,,Rommael,,,middelburg
+143,219,F.J.,,Scheffer,,,middelburg
+144,219,C.,,Regenboog,,President,amsterdam
+145,219,J.M.,,Hessel,,Penningmeester,amsterdam
+146,219,A.,,Hogenhuis,,Eerste Secretaris,amsterdam
+147,219,J.,,Stom,,Tweede Secretaris,amsterdam
+148,219,J.A.,,Prescher,,Commissaris van toezigt,amsterdam
+149,219,J.H.F.,,Bartels,,Commissaris van toezigt,amsterdam
+150,219,J.,,Breeman,,Overman,amsterdam
+151,219,J.,,Lamsveldt,,Eerelid,amsterdam
+152,219,A.,van,Lee,,Eerelid,amsterdam
+153,220,H.,van,Achelen,,,amsterdam
+154,220,G.,,Adolfs,,,amsterdam
+155,220,C.G.,,Bartels,,,amsterdam
+156,220,A.,,Beerenhout,,,amsterdam
+157,220,W.F.,,Bijl,,,amsterdam
+158,220,G.,,Bleij,,,amsterdam
+159,220,G.,,Boursault,,,amsterdam
+160,220,J.G.,,Braams,,,amsterdam
+161,220,J.C.,,Brinkman,,,amsterdam
+162,220,B.,,Buhling,,,amsterdam
+163,220,P.B.,,Buhling,Jr.,,amsterdam
+164,220,J.,,Clausen,,,amsterdam
+165,220,W.J.,,Cleban,,,amsterdam
+166,220,F.,,Diekman,,,amsterdam
+167,220,K.,van,Doorn,,,amsterdam
+168,220,E.J.J.,,Driessen,,,amsterdam
+169,220,W.H.,de,Fost,,,amsterdam
+170,220,J.G.,,Gotze,,,amsterdam
+171,220,J.M.,van,Gool,,,amsterdam
+172,220,J.W.,,Grootegoed,,,amsterdam
+173,220,J.R.,,Gunningh,Jr.,,amsterdam
+174,220,F.H.,,Haberkorn,,,amsterdam
+175,220,P.,,Hansen,,,amsterdam
+176,220,G.J.,,Hartman,,,amsterdam
+177,220,J.,,Heekelman,,,amsterdam
+178,220,J.A.,,Hoeflage,,,amsterdam
+179,220,A.J.,van,Hoorn,,,amsterdam
+180,220,A.J.,van,Hoorn,Jr.,,amsterdam
+181,220,J.,de,Jager,,,amsterdam
+182,220,J.R.,,Jansen,,,amsterdam
+183,220,J.B.,de,Jong,,,amsterdam
+184,220,H.,van,Joolen,,,amsterdam
+185,220,A.,,Kastelein,,,amsterdam
+186,220,C.C.B.,,Kelk,,,amsterdam
+187,220,A.A.,,Kemper,,,amsterdam
+188,220,H.D.J.,van,Kesteren,,,amsterdam
+189,220,F.,,Kiepe,,,amsterdam
+190,220,J.M.,,Knap,,,amsterdam
+191,220,G.,,Koster,,,amsterdam
+192,220,J.,,Kouwer,,,amsterdam
+193,220,A.,,Kreijts,,,amsterdam
+194,220,H.,,Kuchlein,,,amsterdam
+195,220,,,Kuring,,,amsterdam
+196,220,H.F.J.,,Kurtz,,,amsterdam
+197,220,J.,,Langenbach,,,amsterdam
+198,220,D.,de,Leu,,,amsterdam
+199,220,,,Lievegoed,,,amsterdam
+200,220,G.G.,,Lorentz,,,amsterdam
+201,220,,,Maas,,,amsterdam
+202,220,H.J.,,Marsman,,,amsterdam
+203,220,C.M.,,Meijer,,,amsterdam
+204,220,,,Mulder,,,amsterdam
+205,220,D.J.,,Palfenier,,,amsterdam
+206,220,J.,,Pereira,,,amsterdam
+207,220,S.,,Peets,,,amsterdam
+208,220,E.,,Popla,,,amsterdam
+209,220,G.H.,de la,Porte,,,amsterdam
+210,220,D.J.,,Prescher,,,amsterdam
+211,220,J.J.,,Prescher,,,amsterdam
+212,220,H.,,Rijnders,,,amsterdam
+213,220,A.,,Roeloffs,,,amsterdam
+214,220,J.,,Romijn,,,amsterdam
+215,220,C.,,Santink,,,amsterdam
+216,220,G.,,Schaap,,,amsterdam
+217,220,J.,,Schaftenaar,,,amsterdam
+218,220,J.H.,,Schaffer,,,amsterdam
+219,220,L.,,Schouwenburg,,,amsterdam
+220,220,,,Sieters,,,amsterdam
+221,220,F.W.,,Snijders,,,amsterdam
+222,220,R.,van der,Star,,,amsterdam
+223,220,J.J.,,Steen,,,amsterdam
+224,220,J.S.J.,,Steenbergh,,,amsterdam
+225,220,H.J.,,Strootman,,,amsterdam
+226,220,H.,,Stuhr,,,amsterdam
+227,220,H.M.,,Swaab,,,amsterdam
+228,220,H.G.,,Tak,,,amsterdam
+229,220,P.A.,,Tak,,,amsterdam
+230,220,J.J.,,Tieman,,,amsterdam
+231,220,J.,,Vieijra,,,amsterdam
+232,220,W.J.,,Viet,,,amsterdam
+233,220,A.A.,,Vogel,,,amsterdam
+234,220,J.,,Vogel,,,amsterdam
+235,220,J.J.,,Wakker,,,amsterdam
+236,220,J.,van,Wielink,,,amsterdam
+237,220,J.P.,,Wiesener,,,amsterdam
+238,220,J.H.,,Wissinga,,,amsterdam
+239,220,J.,van,Zanten,,,amsterdam
+240,220,J.P.,,Bladergroen,,President,rotterdam
+241,220,A.,,Ingenool,,Vice-President,rotterdam
+242,220,P.,van,Raansmidt,,Eerste secretaris,rotterdam
+243,220,A.G.,van,Beugelink,,Tweede secretaris,rotterdam
+244,220,H.,,Barteling,,,rotterdam
+245,220,H.,,Beek,,,rotterdam
+246,220,A.,,Becker,,,rotterdam
+247,220,L.,,Carkerine,,,rotterdam
+248,220,C.,,Conta,,,rotterdam
+249,220,A.,,Feigeler,,,rotterdam
+250,220,W.F.,,Frantzen,,,rotterdam
+251,220,J.W.,,Geerdt,,,rotterdam
+252,220,J.C.,,Greve,,,rotterdam
+253,220,F.,,Haes,,,rotterdam
+254,220,H.,de,Heide,,,rotterdam
+255,220,J.,,Heijne,,,rotterdam
+256,220,D.,van,Herwaarden,,,rotterdam
+257,220,G.,van,Herwaarden,,,rotterdam
+258,220,J.M.,van,Herwaarden,,,rotterdam
+259,220,J.,de,Jong,,,rotterdam
+260,220,T.W.,,Korten,,,rotterdam
+261,220,D.,,Klouwens,,,rotterdam
+262,220,C.,,Lazerus,,,rotterdam
+263,221,J.,van,Leenhof,,,rotterdam
+264,221,J.,,Vossenaar,,,rotterdam
+265,221,J.,van,Weezenbeek,,,rotterdam
+266,221,M.C.,de,Wilde,,,rotterdam
+267,221,G.,,Roeloffzen,,President,arnhem
+268,221,J.W.,de la,Cuisine,,Secretaris,arnhem
+269,221,Th.,,Coenders,,Penningmeester,arnhem
+270,221,G.C.,van,Schalen,,Commissaris,arnhem
+271,221,H.,,Antink,,,arnhem
+272,221,P.,,Backer,,,arnhem
+273,221,A.,,Gitsels,,,arnhem
+274,221,F.J.,,Helwig,,,arnhem
+275,221,D.,,Hendricks,,,arnhem
+276,221,H.,,Hendricks,,,arnhem
+277,221,A.A.,,Hoedt,,,arnhem
+278,221,T.,,Hopaff,,,arnhem
+279,221,J.M.A.,,Jansen,,,arnhem
+280,221,G.D.,,Kerkhoff,,,arnhem
+281,221,H.,,Linde,,,arnhem
+282,221,H.W.,,Lindeboom,,,arnhem
+283,221,J.,,Mulder,,,arnhem
+284,221,A.,,Oldenbroek,,,arnhem
+285,221,H.Th.,,Otterloo,,,arnhem
+286,221,B.,,Overdijking,,,arnhem
+287,221,J.B.,,Sloot,,,arnhem
+288,221,P.,van,Wageningen,,,arnhem
+289,221,G.,,Wullings,,,arnhem
+290,221,G.,,Alders,,Secretaris,denbosch
+291,221,M.,,Grevenbroek,,,denbosch
+292,221,G.,,Nijman,,,denbosch
+293,221,P.C.W.,,Snijder,,,denbosch
+294,222,J.C.,,Paap,,President,utrecht
+295,222,A.,van,Zutphen,,Vice-President,utrecht
+296,222,P.G.,van der,Kamp,,Eerste secretaris,utrecht
+297,222,F.,den,Daas,,Tweede secretaris,utrecht
+298,222,J.G.,,Fischer,,Penningmeester,utrecht
+299,222,J.H.,van,Gortel,,Commissaris,utrecht
+300,222,A.,,Zadelhoff,,Commissaris,utrecht
+301,222,H.J.,,Baljet,,,utrecht
+302,222,A.H.,,Berends,,,utrecht
+303,222,W.,,Breij,,,utrecht
+304,222,J.P.,,Dieterich,,,utrecht
+305,222,J.M.,van,Doorn,,,utrecht
+306,222,W.,,Evertse,,,utrecht
+307,222,M.,van,Geelen,,,utrecht
+308,222,J.W.,,Gerritsen,,,utrecht
+309,222,C.H.,,Hendriksen,,,utrecht
+310,222,Joh.,,Hendriksen,,,utrecht
+311,222,W.D.,,Hes,,,utrecht
+312,222,P.,,Hoogeboom,,,utrecht
+313,222,J.,,Jongejan,,,utrecht
+314,222,B.,van der,Karst,,,utrecht
+315,222,A.,van,Kasteel,,,utrecht
+316,222,W.,,Ket,,,utrecht
+317,222,H.W.,,Kibbeling,,,utrecht
+318,222,B.,,Lageman,,,utrecht
+319,222,H.J.,,Leijten,,,utrecht
+320,222,J.F.,van der ,Meersch,,,utrecht
+321,222,P.F.,,Meijland,,,utrecht
+322,222,R.G.,,Ming,,,utrecht
+323,222,C.,,Molhelm,,,utrecht
+324,222,C.,,Mommaas,,,utrecht
+325,222,J.M.,,Morat,,,utrecht
+326,222,J.A.,,Mulder,,,utrecht
+327,222,H.R.,,Mulder,,,utrecht
+328,222,J.C.,,Ockeloen,,,utrecht
+329,222,J.J.,,Ouwejan,,,utrecht
+330,222,R.W.,,Paap,,,utrecht
+331,222,A.P.,van,Putten,,,utrecht
+332,222,J.J.H.,,Remmer,,,utrecht
+333,222,A.,van,Renswoude,,,utrecht
+334,222,D.,,Rijksen,,,utrecht
+335,222,W.,van,Rijn,,,utrecht
+336,222,P.A.,,Rister,,,utrecht
+337,222,J.,,Roest,,,utrecht
+338,222,W.,van,Schaick,,,utrecht
+339,222,H.J.,,Schouten,,,utrecht
+340,222,W.F.,,Stekelenburg,,,utrecht
+341,222,J.J.,van,Stempvoort,,,utrecht
+342,222,J.P.,,Verbon,,,utrecht
+343,222,E.D.,,Verbrugh,,,utrecht
+344,222,A.H.,,Verhaar,,,utrecht
+345,222,P.M.F.,van,Weert,,,utrecht
+346,222,J.L.,van der,Vlis,,,utrecht
+347,222,F.,van,Vreeswijk,,,utrecht
+348,222,J.J.,,Zerner,,,utrecht
+349,222,,,Zalsman,,Secretaris,tiel
+350,222,,,Grivel,,Penningmeester,tiel
+351,222,J.K.,de,Regt,,President,leiden
+352,222,L.,van,Nifterick,Hz.,Eerste secretaris,leiden
+353,222,P.,,Somerwil,,Tweede secretaris,leiden
+354,222,A.,,Holtz,,Penningmeester,leiden
+355,222,J.,,Gestman,,Commissaris van toezigt,leiden
+356,222,B.,,Plevier,,Commissaris van toezigt,leiden
+357,223,J.,,Diemel,,Agent,leiden
+358,223,W.,,Eigeman,,Agent,leiden
+359,223,J.,,Eggink,,Agent,leiden
+360,223,J.A.,,Kettenes,,Agent,leiden
+361,223,N.J.,,Koet,,Agent,leiden
+362,223,A.,,Uljee,,Agent,leiden
+363,223,H.,,Gronloh,,Eerelid,leiden
+364,223,J.H.,,Midderhof,,Eerelid,leiden
+365,223,C.E.,,Abspoel,,,leiden
+366,223,J.,,Brus,Jr.,,leiden
+367,223,G.,la,Court,,,leiden
+368,223,P.,,Dekker,,,leiden
+369,223,J.,,Dobbe,,,leiden
+370,223,A.,,Dool,,,leiden
+371,223,J.,,Dool,,,leiden
+372,223,H.,,Doornik,,,leiden
+373,223,J.C.,,Dulfer,,,leiden
+374,223,J.J.,,Gerards,,,leiden
+375,223,J.J.,,Groen,,,leiden
+376,223,J.G.,,Gronloh,,,leiden
+377,223,G.,van,Hest,,,leiden
+378,223,W.J.,,Hoogervorst,,,leiden
+379,223,J.A.,van,Huut,,,leiden
+380,223,D.M.,,Kettenes,,,leiden
+381,223,J.J.,,Kooreman,,,leiden
+382,223,G.,van,Leeuwen,,,leiden
+383,223,B.,,Leget,,,leiden
+384,223,M.,,Martijn,,,leiden
+385,223,D.J.,van,Nieuwenburg,,,leiden
+386,223,H.,van,Oosten,,,leiden
+387,223,M.,,Pieters,,,leiden
+388,223,L.,,Rietbergen,,,leiden
+389,223,A.,van,Rossum,,,leiden
+390,223,J.F.,,Schleicher,,,leiden
+391,223,J.,,Tordu,,,leiden
+392,223,J.H.,,Trel,,,leiden
+393,223,J.F.,van,Wijngaarden,,,leiden
+394,223,J.,van,Zwieten,,,leiden
+395,223,M.,,Mark,,,NRC
+396,223,A.,van der,Waag,,,NRC
+397,223,P.E.,van,Well,,,NRC
+398,223,D.,,Allart,,,NRC
+399,223,J.G.J.,,Bergee,,,NRC
+400,223,H.,,Blankenaer,,,NRC
+401,223,A.,van den,Bosch,,,NRC
+402,223,A.,,Doolhof,,,NRC
+403,223,P.F.,,Gerpot,,,NRC
+404,223,M.,van,Gerwen,,,NRC
+405,223,H.,,Hermans,,,NRC
+406,223,D.,,Klouwens,,,NRC
+407,223,J.J.,,Lindenhof,,,NRC
+408,223,J.J.,,Mathlener,,,NRC
+409,223,J.,,Muijzert,,,NRC
+410,223,G.,,Noot,,,NRC
+411,223,P.,,Ponk,,,NRC
+412,223,J.,,Reitsma,,,NRC
+413,223,W.P.J.,,Schollaardt,,,NRC
+414,223,Jz.,,Wijnbeek,,,NRC
+415,223,H.,van,Wijnen,,,NRC
