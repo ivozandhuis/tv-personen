@@ -1,0 +1,15 @@
+# Experiment to capture the specifics of the derivation between PersonObservation and PersonConstruction
+
+:_ a prov:Derivation ;
+    prov:entity :po1, :po2, :po3, :po4 ;
+    :match [
+        :property sdo:name ;
+        :value "how-to-express-matching-one-on-one-overlapping" ;
+        :value "how-to-express-matching-data-triangulation" ;
+        :value "how-to-express-matching-uniqueness" ;
+        :value "how-to-express-reliability"
+    ] ;
+    prov:wasAssociatedWith <https://orcid.org/0000-0003-0165-8341> .
+   
+
+
